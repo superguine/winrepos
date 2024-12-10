@@ -5,5 +5,5 @@ Encountering any issues or have questions? Don’t hesitate to reach out—I'm h
 
 
 # **Changelog**
-| location | Changes | Fixed | Issue |Commit message|
-|----------|---------|-------|-------|--------------|
+| content | Changes | Fixed | Issue |Commit message|
+|---------|---------|-------|-------|--------------|
